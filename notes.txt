@@ -1,0 +1,5 @@
+iterrow or itertuple? no... no need...
+- just use list comprehension on df.values?
+
+use sqlalchemy? probably also no need
+
